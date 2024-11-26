@@ -115,4 +115,21 @@ hr{
        border-radius: 10px; 
          
  }
+ .pink{
+       background-color: #D863A0 ;
+       padding: 8px;
+       font-size: 10px;
+       height: 10px;
+       border-radius: 10px; 
+ }
+
+ .light-green{
+       background-color: #B0C926;
+       padding: 8px;
+       font-size: 10px;
+       height: 10px;
+       border-radius: 10px; 
+ }
+              
+ 
 
