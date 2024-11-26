@@ -1,0 +1,14 @@
+header{
+       background-color: white
+}
+#background{
+            background-color: lightgray;
+}
+#logo,
+.vertical-logo{
+                vertical-align: bottom;
+                width: 130px;
+              }
+ span{
+       font-size: 120px;
+ }             
